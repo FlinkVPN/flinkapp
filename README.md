@@ -1,6 +1,7 @@
 # 飞连vpn--永远能连上的梯子（科学上网）
 各个平台的安装包下载（请在浏览器中打开）
-**:arrow_double_down: [iOS 大陆用户下载教程](https://testflight.apple.com/join/Kv24qsHE))** 
+
+**:arrow_double_down: [iOS 大陆用户下载教程](https://testflight.apple.com/join/Kv24qsHE)** 
 
 **:arrow_double_down: [iOS 海外商店版本](https://lets-contact.onelink.me/0dzS/5zggrqgp)**
 
