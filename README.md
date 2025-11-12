@@ -3,9 +3,7 @@
 
 **:arrow_double_down: [iOS 大陆用户下载教程](https://testflight.apple.com/join/Kv24qsHE)** 
 
-**:arrow_double_down: [iOS 海外商店版本](https://lets-contact.onelink.me/0dzS/5zggrqgp)**
-
-**:arrow_double_down: [Android 版本.apk](https://lets-contact.onelink.me/0dzS/i809x9ah)**
+**:arrow_double_down: [Android 版本.apk](https://v.06dn.com/api/v3/slave/source/0/L3VwbG9hZHMvMzI4MTEvMjAyNTEwLzI2LzMyODExXzlneE5uT0RzX2ZsaW5rLTMuMy4zLXJlbGVhc2UuYXBr/flink-3.3.3-release.apk?sign=q76qg3QZvuTk4PxvbEy-kkyAk4thi1Iry5P3NpnVf7w%3D%3A0)**
 
 **:arrow_double_down: [Windows 版本.exe](https://lets-contact.onelink.me/0dzS/rin2hr10)**
 
