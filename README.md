@@ -19,6 +19,10 @@
 如果解压时候端口丢失，可手动修改端口：【设置】→【代理端口】→【Socks】→输入【7890】确定。
 
 **:globe_with_meridians: [访问官方网站](https://www.flinkapp.cc/)** 
+
+**:arrow_double_down: [网盘 大陆备用下载地址---可直接浏览器访问下载](https://wwjx.lanzoup.com/b016kawwqj)** 
+网盘访问密码:88888
+
 - - - -
 #### 联系真人客服（请在浏览器中打开）
 
