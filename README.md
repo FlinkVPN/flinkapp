@@ -11,7 +11,7 @@
 
 4、请手动授权权限，否则无法使用
 
-**:arrow_double_down: [Android 版本.apk](https://v.06dn.com/api/v3/slave/source/0/L3VwbG9hZHMvMzI4MTEvMjAyNTEwLzI2LzMyODExXzlneE5uT0RzX2ZsaW5rLTMuMy4zLXJlbGVhc2UuYXBr/flink-3.3.3-release.apk?sign=q76qg3QZvuTk4PxvbEy-kkyAk4thi1Iry5P3NpnVf7w%3D%3A0)**
+**:arrow_double_down: [Android 版本.apk](https://v.06dn.com/api/v3/slave/source/0/L3VwbG9hZHMvMzI4MTEvMjAyNTExLzE2LzMyODExXzVwQU5EdzJwX2NvbS5kbnljYy5mbGlua2FwcHN0ZjAwMS0zLjMuOC5hcGs/flink-001-3.3.8.apk?sign=MtnldO2di0SF_62-poldIopFysYpGBOeG1Y95X7hawE%3D%3A0)**
 
 **:arrow_double_down: [Windows 版本.exe](https://v.06dn.com/api/v3/slave/source/0/L3VwbG9hZHMvMzI4MTEvMjAyNTEwLzI2LzMyODExX2dQRXlKUnBsX2ZsaW5rLTIuMy4zLXBjLXJlbGVhc2Uuemlw/flink-2.3.3-pc-release.zip?sign=FPTVZup3IvkTwozHIMp38JPyHjhz8NLVbQllrTls6Uk%3D%3A0)**
 
